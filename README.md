@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yogesh Kardile</h1>
-<h3 align="center">ML & Data Engineering | System Builder | Open-Source Contributor</h3>
+<h2 align="center">Hi 👋, I'm Yogesh Kardile</h2>
+<h4 align="center">ML & Data Engineering | System Builder | Open-Source Contributor</h4>
 
-<p align="center">
+<p align="center" style="margin-top:-10px;">
   <img src="https://komarev.com/ghpvc/?username=Yogesh942134&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
 </p>
 
 ## 🧠 About Me
-Computer Science (AI) undergraduate at DBATU building **ML-readiness, data-quality and validation systems** for real-world machine learning pipelines.  
+Computer Science (AI) undergraduate at DBATU building **ML-readiness, data-quality and validation systems** for real-world ML pipelines.  
 Creator of **YReport**, an open-source dataset health & diagnostics framework.
-
-I design systems — not just models.
 
 ## 🔬 Current Focus
 - ML pipeline validation & data diagnostics (YReport)
-- Image similarity & embedding-based retrieval systems
+- Embedding-based image similarity systems
 - Production-oriented ML engineering
 
 ## 🛠️ Tech Stack
@@ -32,8 +30,8 @@ I design systems — not just models.
 - Creator of YReport (Open-Source)
 
 ## 📫 Connect
-- 💼 LinkedIn: https://linkedin.com/in/yogesh-kardile-1baa17273  
-- 📧 Email: kardile.work@gmail.com  
-- 🐙 GitHub: https://github.com/Yogesh942134  
+- 💼 https://linkedin.com/in/yogesh-kardile-1baa17273  
+- 📧 kardile.work@gmail.com  
+- 🐙 https://github.com/Yogesh942134  
 
-<h3 align="center">“I don’t use AI — I engineer systems around it.”</h3>
+<h4 align="center">I engineer ML systems — not just models.</h4>
