@@ -26,7 +26,7 @@ Creator of **YReport**, an open-source dataset health & diagnostics framework.
 | **Olympics Data Analysis** | Interactive EDA on 120 years of Olympic data |
 
 ## 🏆 Achievements
-- ⭐ 5-Star SQL on HackerRank  
+- ⭐ 5-Star SQL and Python on HackerRank  
 - Creator of YReport (Open-Source)
 
 ## 📫 Connect
